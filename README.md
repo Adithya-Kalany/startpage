@@ -4,6 +4,8 @@ A simple startpage made with Svelte and Openweathermap API.
 
 Works great with https://github.com/akshat46/FlyingFox.
 
+The font is https://github.com/microsoft/cascadia-code/.
+
 ![preview](./preview.png)
 
 ## Using this startpage
